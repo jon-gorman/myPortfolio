@@ -186,7 +186,8 @@ let resumeData = {
         "name":"Kevin Kolten, CEO Austin Devs LLC"
       },
       {
-        "description":"Hi guys!, \n I have seen a lot of people asking for WEB / SEO help on Lakeway Swap and I wanted to take a minute to review someone who I was referred to - \n Jon Gorman !!!! 😀 \n  Jon completely revamped our website in less than a month. He was extremely kind and receptive to all the questions and concerns I had, which were many! He not only has great work ethic and wonderful response time, but knows what he is doing! We could not be happier with the end result. You can see our site below - \n beelavish.com",
+        "description":"Hi guys!, \n" +
+            " I have seen a lot of people asking for WEB / SEO help on here and I wanted to take a minute to review someone who I was referred to - Jon Gorman !!!! 😀   Jon completely revamped our website in less than a month. He was extremely kind and receptive to all the questions and concerns I had, which were many! He not only has great work ethic and wonderful response time, but knows what he is doing! We could not be happier with the end result. You can see our site below - www.beelavish.com",
         "name": "Lauren Stone, Beelavish"
       },
     ]
