@@ -4,11 +4,26 @@
 /*
 -----------------------------------------------------------------------------------*/
 
+
+
+
  jQuery(document).ready(function($) {
+/*----------------------------------------------------*/
+/* Force http instead of https for Kaffien :)
+/*----------------------------------------------------*/
+
+     window.onload=function(){
+         $(function(){
+             if(window.location.protocol==="https:")
+                 window.location.protocol="http";
+         });
+     }
 
 /*----------------------------------------------------*/
 /* FitText Settings
 ------------------------------------------------------ */
+
+
 
     setTimeout(function() {
 	   $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' });

@@ -920,7 +920,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-    background: #1F1F1F url(../images/lightCode.jpg) no-repeat center center;
+    background: #1F1F1F url(../images/blueSky.jpg) no-repeat center center;
     background-size: cover !important;
     -webkit-background-size: cover !important;
     background-attachment: fixed;
@@ -940,7 +940,7 @@ call-to-action .button {
     font: 18px/24px 'opensans-bold', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #fff;
+    color: white;
 }
 
 #testimonials h1 span {
@@ -959,7 +959,7 @@ call-to-action .button {
     line-height: 72px;
     text-align: left;
     float: left;
-    color: #fff;
+    color: white;
 }
 
 /*	Blockquotes */
@@ -967,7 +967,7 @@ call-to-action .button {
     margin: 0 0px 30px 0px;
     padding-left: 0;
     position: relative;
-    text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+    /*text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);*/
 }
 
 #testimonials blockquote:before {
