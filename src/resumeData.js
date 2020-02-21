@@ -2,7 +2,7 @@ import reactredux from "./components/images/reactRedux1.png"
 import hackathon from "./components/images/hack1234.png"
 import picMatch from "./components/images/pictureMatch1.png"
 import wordPress from "./components/images/wordPress.png"
-import pdf from "./components/images/Resume01142019PDF.pdf"
+import pdf from "./components/images/ReactResume.pdf"
 
 
 let resumeData = {
@@ -66,40 +66,47 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Whole Foods",
-        "specialization":"Grocery Department",
-        "MonthOfLeaving":"2018",
+        "CompanyName":"AlphaNumeric Web-Technologies",
+        "specialization":"CEO",
+        "MonthOfLeaving":"2019",
         "YearOfLeaving":"Present",
-        "Achievements":""
+        "Achievements":"Built a company that creates websites for businesses and individuals. Runs all aspects of the business, including planning, budget administration, SEO marketing. marketing services, communication, and execution from inception to publication. Specializing  in website design/building."
       },
+      // {
+        // "CompanyName":"Whole Foods",
+        // "specialization":"Grocery Department",
+        // "MonthOfLeaving":"2018",
+        // "YearOfLeaving":"Present",
+        // "Achievements":""
+      // },
       {
         "CompanyName":"Austin Devs, LLC",
         "specialization":"Development and Testing",
         "MonthOfLeaving":"2018",
         "YearOfLeaving":"Present",
-        "Achievements":"Contribute to the development of web-applications for local Start-Ups"
+        "Achievements":"Contributed to the development of a web app for a local startup"
       },
       {
         "CompanyName":"Austin Coding Academy",
         "specialization":"Student TA",
         "MonthOfLeaving":"April, 2018",
         "YearOfLeaving":"July, 2018",
-        "Achievements":"Helped new students learn code"
+        "Achievements":"Assisted pedagogical team of in person and on online teaching and helped in material preparation for new students. Helped improve students’ outcomes by holding tutor sessions online"
       },
-      {
-        "CompanyName":"Instacart",
-        "specialization":"Contractor",
-        "MonthOfLeaving":"2016 -",
-        "YearOfLeaving":"2018",
-        "Achievements":"Ensured timely and accurate orders for customers"
-      },
-      {
-        "CompanyName":"Megladon Manufacturing",
-        "specialization":"Bidding & Estimating",
-        "MonthOfLeaving":"2014 -",
-        "YearOfLeaving":"2016",
-        "Achievements":"Collaborated with shareholders to establish a ISO-14000 standardization"
-      },
+      // {
+        // "CompanyName":"Instacart",
+        // "specialization":"Contractor",
+        // "MonthOfLeaving":"2016 -",
+        // "YearOfLeaving":"2018",
+        // "Achievements":"Ensured timely and accurate orders for customers"
+      // },
+      // {
+        // "CompanyName":"Megladon Manufacturing",
+        // "specialization":"Bidding & Estimating",
+        // "MonthOfLeaving":"2014 -",
+        // "YearOfLeaving":"2016",
+        // "Achievements":"Collaborated with shareholders to establish a ISO-14000 standardization"
+      // },
     ],
     "skillsDescription":"",
     "skills":[
@@ -126,6 +133,9 @@ let resumeData = {
       },
       {
         "skillname": "Git"
+      },
+      {
+        "skillname": "Node"
       },
       {
         "skillname": "Gnu Image Manipulation Program"

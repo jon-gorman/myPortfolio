@@ -473,7 +473,7 @@ span.bar-expand {
     -webkit-animation: jquery 2s ease;
 }
 .express {
-    width: 28%;
+    width: 40%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
 }
@@ -483,11 +483,17 @@ span.bar-expand {
     -webkit-animation: jquery 2s ease;
 }
 .reactjs{
-    width: 25%;
+    width: 35%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
 }
 .git{
+    width: 51%;
+    -moz-animation: jquery 2s ease;
+    -webkit-animation: jquery 2s ease;
+}
+
+.node{
     width: 51%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
